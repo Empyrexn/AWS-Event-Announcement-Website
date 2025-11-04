@@ -8,7 +8,7 @@ This project focuses on building a serverless event announcement website that al
 
 The frontend is hosted as a static website on Amazon S3, while backend processing is handled through AWS Lambda functions triggered by API Gateway endpoints. Amazon SNS is used to manage subscribers and send notifications whenever a new event is created.
 
-![Architecture Diagram](https://github.com/user-attachments/assets/f4d34f6c-e349-4080-b2a6-106dc0cb2b5e)
+![Architecture Diagram](https://github.com/user-attachments/assets/539bab39-18f4-4d47-8b58-b0e9624579dd)
 
 ## Key Components
 
